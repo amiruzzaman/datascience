@@ -8,7 +8,7 @@
 
 [Iris data](https://github.com/amiruzzaman/datascience/blob/main/iris%20data.ipynb "Iris data classification example")
 
-[Loading csv file in Pandas] (https://github.com/amiruzzaman/datascience/blob/main/loading_csv_pandas.ipynb)
+[Loading csv file in Pandas] (https://github.com/amiruzzaman/datascience/blob/main/loading_csv_pandas.ipynb "csv file loading")
 
 [Get n-samples from a dataset](https://github.com/amiruzzaman/datascience/blob/main/n-sample.ipynb)
 
